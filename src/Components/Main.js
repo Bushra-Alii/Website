@@ -3,7 +3,7 @@ import { ReactTyped } from 'react-typed';
 
 const Main = () => {
   return (
-    <div className='h-screen w-full mx-auto text-center flex flex-col justify-center'>
+    <div id="main" className='h-screen w-full mx-auto text-center flex flex-col justify-center'>
       <p className='text-[#00df9a] font-bold text-xl sm:text-3xl  md:text-4xl'>
         GROWING WITH DATA ANALYTICS
       </p>

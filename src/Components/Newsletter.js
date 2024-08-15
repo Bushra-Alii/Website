@@ -2,7 +2,7 @@ import React from 'react'
 
 const Newsletter = () => {
     return (
-        <div className='w-full py-16 px-4 text-white grid md:grid-cols-2'>
+        <div id="newsletter" className='w-full py-16 px-4 text-white grid md:grid-cols-2'>
             <div>
             <h1 className='font-bold text-xl md:text-2xl'>
                 Want tips & tricks to optimize your flow?

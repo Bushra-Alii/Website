@@ -3,7 +3,7 @@ import Laptop from '../Images/laptop.jpg'
 
 const Analytics = () => {
   return (
-    <div className=' w-full bg-white py-16 '>
+    <div id='analysis' className=' w-full bg-white py-16 '>
         <div className='mx-auto max-w-[1240px] grid md:grid-cols-2'>
             <img src={Laptop} alt='laptop' className='w-[500px] mx-auto'/>
             <div className='w-full flex flex-col justify-center'>
